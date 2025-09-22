@@ -1,0 +1,122 @@
+[
+  {
+    "playerImg": "https://i.ibb.co.com/RGK2VCzF/gettyimages-2154844262-594x594.jpg",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-Rounder",
+    "playerRating": 9.5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Slow Left-Arm Orthodox",
+    "price": "USD 120,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/n2v7tW9/97b5a2ad675562e737fb28a58c84d7eb.jpg",
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Batter",
+    "playerRating": 8.5,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Right-Arm Off-Break",
+    "price": "USD 95,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/bR8bWbYb/217762-148.jpg",
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playerRole": "Batter",
+    "playerRating": 9.0,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Right-Arm Off-Break",
+    "price": "USD 150,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/SLFQpZS/images.jpg",
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerRole": "Bowler",
+    "playerRating": 9.8,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-Arm Leg-Break",
+    "price": "USD 140,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/bgX9BqtZ/383539.webp",
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "playerRating": 8.8,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Left-Arm Fast-Medium",
+    "price": "USD 100,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/jvHKxymR/gettyimages-1682578127-612x612.jpg",
+    "playerName": "Dawid Malan",
+    "playerCountry": "England",
+    "playerRole": "Batter",
+    "playerRating": 8.0,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Leg-Break",
+    "price": "USD 110,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/bR8bWbYb/217762-148.jpg",
+    "playerName": "Mahmudullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-Rounder",
+    "playerRating": 7.5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-Arm Off-Break",
+    "price": "USD 80,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/byk9fmL/V-cc-Rxtl-400x400.jpg",
+    "playerName": "Mohammad Nabi",
+    "playerCountry": "Afghanistan",
+    "playerRole": "All-Rounder",
+    "playerRating": 8.5,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-Arm Off-Break",
+    "price": "USD 90,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/svgTR1WB/69416965.webp",
+    "playerName": "Najibullah Zadran",
+    "playerCountry": "Afghanistan",
+    "playerRole": "Batter",
+    "playerRating": 7.8,
+    "battingStyle": "Left-Handed Bat",
+    "bowlingStyle": "Right-Arm Off-Break",
+    "price": "USD 75,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/bM5tcRj7/images-1.jpg",
+    "playerName": "Alex Hales",
+    "playerCountry": "England",
+    "playerRole": "Batter",
+    "playerRating": 8.2,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-Arm Medium-Fast",
+    "price": "USD 130,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/QFn4Y4GG/378198-6.webp",
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerRole": "All-Rounder",
+    "playerRating": 9.2,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": "USD 160,000"
+  },
+  {
+    "playerImg": "https://i.ibb.co.com/pvsRDThM/bangladeshs-liton-das-bats-during-the-icc-cricket-world-cup-group-stage-match-at-lords-london-W235-B.jpg",
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Batter / Wicketkeeper",
+    "playerRating": 8.7,
+    "battingStyle": "Right-Handed Bat",
+    "bowlingStyle": "N/A",
+    "price": "USD 85,000"
+  }
+]
