@@ -1,7 +1,11 @@
 import React from "react";
 
-const PurchasedCards = ({player}) => {
-    console.log(player)
+const PurchasedCards = ({player,removePlayer}) => {
+
+    const handleRemove=()=>{
+        removePlayer(player)
+    }
+
   return (
     <div className="flex justify-between items-center mx-10 my-5">
       <div>
@@ -12,7 +16,7 @@ const PurchasedCards = ({player}) => {
         />
         <h5>{player.playerName}</h5>
       </div>
-      <button className="btn">X</button>
+      <button onClick={handleRemove} className="btn">X</button>
     </div>
   );
 };

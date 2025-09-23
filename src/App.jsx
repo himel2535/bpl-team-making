@@ -20,6 +20,13 @@ function App() {
 
   const [purchasedPlayers, setPurchasedPlayers] = useState([]);
 
+  const removePlayer=(p)=>{
+    const filteredPlayer=purchasedPlayers.filter(fPlayer=>fPlayer.playerName!==p.playerName)
+    console.log(filteredPlayer)
+    setPurchasedPlayers(filteredPlayer)
+    setAvailableBalance(availableBalance+p.price)
+  }
+
   return (
     <>
       {/* navbar */}
@@ -70,6 +77,7 @@ function App() {
         >
           <SelectedPlayers
             purchasedPlayers={purchasedPlayers}
+            removePlayer={removePlayer}
             
           ></SelectedPlayers>
         </Suspense>
