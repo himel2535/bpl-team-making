@@ -1,17 +1,26 @@
 import React, { useState } from 'react';
+import { toast } from 'react-toastify';
 
 const PlayerCard = ({player,setAvailableBalance,availableBalance,purchasedPlayers,setPurchasedPlayers}) => {
 
     const handleSelected=(playerData)=>{
         const playerPrice=playerData.price;
         if(availableBalance<playerPrice){
-            alert("insufficient balance")
+            toast("insufficient balance")
             return;
         }
+
+        if(purchasedPlayers.length===6){
+            toast("Doesn't purchased player more then SIX")
+            return;
+        }
+
         setIsSelected(true)
         setAvailableBalance(availableBalance-playerPrice);
 
         setPurchasedPlayers([...purchasedPlayers,playerData])
+
+        toast("player purchasing is Done")
 
     }
 

@@ -3,6 +3,7 @@ import "./App.css";
 import AvailablePlayers from "./components/AvailablePlayers/AvailablePlayers";
 import Navbar from "./components/Navbar/Navbar";
 import SelectedPlayers from "./components/SelectedPlayers/SelectedPlayers";
+import { ToastContainer } from 'react-toastify';
 
 const fetchPlayers = async () => {
   const res = await fetch("/players.json");
@@ -16,7 +17,7 @@ const playerPromise = fetchPlayers();
 function App() {
   const [toggle, setToggle] = useState(true);
 
-  const [availableBalance, setAvailableBalance] = useState(600000);
+  const [availableBalance, setAvailableBalance] = useState(6000000);
 
   const [purchasedPlayers, setPurchasedPlayers] = useState([]);
 
@@ -83,9 +84,8 @@ function App() {
         </Suspense>
       )}
 
-      {/* Available Players */}
+      <ToastContainer></ToastContainer>
 
-      {/* Selected Players */}
     </>
   );
 }
