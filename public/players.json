@@ -7,7 +7,7 @@
     "playerRating": 9.5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Slow Left-Arm Orthodox",
-    "price": "USD 120,000"
+    "price": 120000
   },
   {
     "playerImg": "https://i.ibb.co.com/n2v7tW9/97b5a2ad675562e737fb28a58c84d7eb.jpg",
@@ -17,17 +17,17 @@
     "playerRating": 8.5,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Right-Arm Off-Break",
-    "price": "USD 95,000"
+    "price": 95000
   },
   {
-    "playerImg": "https://i.ibb.co.com/bR8bWbYb/217762-148.jpg",
+    "playerImg": "https://i.ibb.co.com/vxgMWswq/gayel.jpg",
     "playerName": "Chris Gayle",
     "playerCountry": "West Indies",
     "playerRole": "Batter",
     "playerRating": 9.0,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Right-Arm Off-Break",
-    "price": "USD 150,000"
+    "price": 150000
   },
   {
     "playerImg": "https://i.ibb.co.com/SLFQpZS/images.jpg",
@@ -37,7 +37,7 @@
     "playerRating": 9.8,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-Arm Leg-Break",
-    "price": "USD 140,000"
+    "price": 140000
   },
   {
     "playerImg": "https://i.ibb.co.com/bgX9BqtZ/383539.webp",
@@ -47,7 +47,7 @@
     "playerRating": 8.8,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Left-Arm Fast-Medium",
-    "price": "USD 100,000"
+    "price": 100000
   },
   {
     "playerImg": "https://i.ibb.co.com/jvHKxymR/gettyimages-1682578127-612x612.jpg",
@@ -57,7 +57,7 @@
     "playerRating": 8.0,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Leg-Break",
-    "price": "USD 110,000"
+    "price": 110000
   },
   {
     "playerImg": "https://i.ibb.co.com/bR8bWbYb/217762-148.jpg",
@@ -67,7 +67,7 @@
     "playerRating": 7.5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-Arm Off-Break",
-    "price": "USD 80,000"
+    "price": 80000
   },
   {
     "playerImg": "https://i.ibb.co.com/byk9fmL/V-cc-Rxtl-400x400.jpg",
@@ -77,7 +77,7 @@
     "playerRating": 8.5,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-Arm Off-Break",
-    "price": "USD 90,000"
+    "price": 90000
   },
   {
     "playerImg": "https://i.ibb.co.com/svgTR1WB/69416965.webp",
@@ -87,7 +87,7 @@
     "playerRating": 7.8,
     "battingStyle": "Left-Handed Bat",
     "bowlingStyle": "Right-Arm Off-Break",
-    "price": "USD 75,000"
+    "price": 75000
   },
   {
     "playerImg": "https://i.ibb.co.com/bM5tcRj7/images-1.jpg",
@@ -97,7 +97,7 @@
     "playerRating": 8.2,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-Arm Medium-Fast",
-    "price": "USD 130,000"
+    "price": 130000
   },
   {
     "playerImg": "https://i.ibb.co.com/QFn4Y4GG/378198-6.webp",
@@ -107,7 +107,7 @@
     "playerRating": 9.2,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "Right-Arm Fast",
-    "price": "USD 160,000"
+    "price": 160000
   },
   {
     "playerImg": "https://i.ibb.co.com/pvsRDThM/bangladeshs-liton-das-bats-during-the-icc-cricket-world-cup-group-stage-match-at-lords-london-W235-B.jpg",
@@ -117,6 +117,6 @@
     "playerRating": 8.7,
     "battingStyle": "Right-Handed Bat",
     "bowlingStyle": "N/A",
-    "price": "USD 85,000"
+    "price": 85000
   }
 ]
