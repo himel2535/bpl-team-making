@@ -1,10 +1,13 @@
 import React from 'react';
+import PurchasedCards from '../purchasedCards/PurchasedCards';
 
 const SelectedPlayers = ({purchasedPlayers}) => {
     console.log(purchasedPlayers)
     return (
         <div>
-            <h2>selected</h2>
+            {
+                purchasedPlayers.map(player=> <PurchasedCards player={player}></PurchasedCards>)
+            }
         </div>
     );
 };

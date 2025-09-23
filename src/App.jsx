@@ -26,7 +26,7 @@ function App() {
       <Navbar availableBalance={availableBalance}></Navbar>
 
       <div className="flex justify-between mx-10 mt-5">
-        <h2>Available player</h2>
+        <h2>{toggle===true?"Available Player": `Selected Players (${purchasedPlayers.length})`}</h2>
         <div className="flex gap-1">
           <button
             onClick={() => {
@@ -43,7 +43,7 @@ function App() {
             }}
             className={`btn ${toggle === false ? "bg-green-100" : ""} `}
           >
-            Selected
+            Selected ({purchasedPlayers.length}/6)
           </button>
         </div>
       </div>
